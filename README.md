@@ -25,7 +25,7 @@ Analysis
 The design and testing were on point, so everything was good in those phases. However, coding was off, since:
 1) I forgot how to use input operations in Python properly
 2) I didn't know about the library that Gemini AI ended up using in the input function
-3) I slightly deviated from the original design, and as a result, the output is now also handled by the main function, since it seems quite fine for me, and I don't really see why something so simple would be divided into a separate function, unless I wanted to do extreme OOP, but I didn't, and the input function would defeat the purpose of that already since it's relatively big. That is a serious misconsideration in the design phase.
+3) I slightly deviated from the original design, and as a result, the output is now also handled by the main function, since it seems quite fine for me, and I don't really see why something so simple would be divided into a separate function, unless I wanted to do extreme OOP, but I didn't, and the input function would defeat the purpose of that already since it's relatively big. That is a serious misconsideration in the design phase. Also, I didn't plan out the exact input operations in the design phase, which is a critical issue in the design phase.
 
 Time at this point: 44 minutes (on time).
 
